@@ -1,0 +1,29 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "A command-line application to manage employees, roles, and departments.",
+    "main": "tracker.js",
+    "dependencies": {
+      "chalk": "^4.1.2",
+      "console.table": "^0.10.0",
+      "inquirer": "^7.3.3",
+      "mysql": "^2.18.1",
+      "mysql2": "^3.5.1"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node tracker"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/javimari/employee-tracker.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/javimari/employee-tracker/issues"
+    },
+    "homepage": "https://github.com/javimari/WEEK12-SQL-Challenge--Employee-Tracker/blob/main/README.md"
+  }
+  

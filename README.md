@@ -1,12 +1,15 @@
 # WEEK12 SQL Challenge: Employee Tracker
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) // Include the license badge at the top
+## User Story
+AS A business owner
+I WANT to be able to view and manage the departments, roles, and employees in my company
+SO THAT I can organize and plan my business
   
   ## Description
   an employee tracker
   
   ## Table of Contents
-  - [Installation](#installation)
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions](#questions)
